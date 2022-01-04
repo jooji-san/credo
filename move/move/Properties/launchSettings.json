@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "move": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\giorgi\\Desktop\\src 06/10/2001 C:\\Users\\giorgi\\Desktop\\dest"
+    }
+  }
+}
