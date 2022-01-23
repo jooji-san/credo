@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32f86597-33ce-4fbc-8501-6083d79eb469": {
+      "ProjectGuid": "32f86597-33ce-4fbc-8501-6083d79eb469",
+      "DisplayName": "warriorGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

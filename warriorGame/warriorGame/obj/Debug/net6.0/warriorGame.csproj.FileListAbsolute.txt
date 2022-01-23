@@ -1,0 +1,15 @@
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\bin\Debug\net6.0\warriorGame.exe
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\bin\Debug\net6.0\warriorGame.deps.json
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\bin\Debug\net6.0\warriorGame.runtimeconfig.json
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\bin\Debug\net6.0\warriorGame.dll
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\bin\Debug\net6.0\ref\warriorGame.dll
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\bin\Debug\net6.0\warriorGame.pdb
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\obj\Debug\net6.0\warriorGame.csproj.AssemblyReference.cache
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\obj\Debug\net6.0\warriorGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\obj\Debug\net6.0\warriorGame.AssemblyInfoInputs.cache
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\obj\Debug\net6.0\warriorGame.AssemblyInfo.cs
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\obj\Debug\net6.0\warriorGame.csproj.CoreCompileInputs.cache
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\obj\Debug\net6.0\warriorGame.dll
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\obj\Debug\net6.0\ref\warriorGame.dll
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\obj\Debug\net6.0\warriorGame.pdb
+C:\Users\giorgi\source\repos\warriorGame\warriorGame\obj\Debug\net6.0\warriorGame.genruntimeconfig.cache
